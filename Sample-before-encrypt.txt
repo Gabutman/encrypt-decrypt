@@ -1,0 +1,14 @@
+name:captography machine
+version:0.0.2
+release:friday 6 august 2021
+id:000-0
+update:
+friday 6 august 2021:1.encrypt text
+                     2.decrypt text					 
+saturday 7 august 2021:1.encrypt text file
+                       2.upgrade encrypt and decrypt
+monday 8 august 2021:1.upgrade key
+Tuesday 17 august 2021:1.upgrade value
+monday 23 august 2021:1.upgrade encrypt
+
+target:
