@@ -11,6 +11,12 @@ def dm0(t):
 		d+=ord(i)
 	return d
 t,s,f,m,k,md="",list_text(1114112),open(input("filename:"),"w"),dm0(str(input("input value:"))),dm0(str(input("input key:"))),int(input("input mod:"))
+if k < 1:
+	k = 1
+if md < 1:
+	md = 3
+if m < 1:
+        m = 1
 for i in str(open("input.txt","r").read()):
 	t+=s[s.find(i)+k%md]
 for i in dm(t):
