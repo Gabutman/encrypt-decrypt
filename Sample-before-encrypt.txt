@@ -10,5 +10,6 @@ saturday 7 august 2021:1.encrypt text file
 monday 8 august 2021:1.upgrade key
 Tuesday 17 august 2021:1.upgrade value
 monday 23 august 2021:1.upgrade encrypt
+Sunday 19 September 2021:1.fix bug key,value,and modulus
 
 target:
